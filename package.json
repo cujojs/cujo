@@ -1,0 +1,28 @@
+{
+    "name": "cujo",
+    "version": "0.1.0",
+    "description": "The Unframework: wire.js, curl.js, cram.js, when.js, cola.js, aop.js, poly.js, canh(az).js, robo.js, pile.js",
+    "keywords": ["modules", "ioc", "promises"],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/cujojs/cujo"
+        }
+    ],
+    "maintainers": [
+        {
+            "name": "Brian Cavalier",
+            "web": "http://hovercraftstudios.com"
+        },
+        {
+            "name": "John Hann",
+            "web": "http://unscriptable.com"
+        }
+    ]
+}
